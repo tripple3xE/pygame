@@ -1,7 +1,7 @@
 import math
 import unittest
 import sys
-import warnings
+import warningsd
 
 import pygame
 from pygame import draw
